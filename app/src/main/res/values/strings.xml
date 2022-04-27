@@ -1,3 +1,25 @@
 <resources>
-    <string name="app_name">BMI Calculator</string>
+    <string name="app_name">Bakandamiya BMI </string>
+    <string name="txtheight">Height</string>
+    <string name="btncalculate">Calculate</string>
+    <string name="bmiResult">BMI:</string>
+    <string name="txtweight">Weight</string>
+    <string name="txtage">Age</string>
+    <string name="txtcopyright">V 1.0 © 2022 Bakandamiya</string>
+    <string name="txtcontactus">For any inquiries, suggestions or partnerships, we can be reached at:</string>
+
+    <string name="txtAbout">Bakandamiya BMI is an app designed to provide a basic tool
+        for measuring body mass index. It is meant to serve as a preliminary step to stay healthy and make informed medical decisions. It is never a substitute for medical prescription,
+        so it should be used in consultation with medical personnel.\n\nThe app is created by Bakandamiya, a technology and content development company based in Nigeria. It is free for all to use.
+</string>
+
+    <string name="txtContact">Age</string>
+    <string name="txtPrivacy">This Privacy Policy is here to help you understand how we treat any personal information that you share with us when you use Bakandamiya BMI Mobile Apps.
+        This Privacy Policy explains how we collect, use, disclose, and protect visitors’ and users’ information. Any discussion of your use of the Service in this Policy is meant to include
+        your visits and other interactions with the app.\n\n<b>WHO ARE WE?</b>\nThis Mobile App (“Site”) is operated by Bakandamiya Global Concept Ltd, the global organizer of this Bakandamiya BMI mobile app, which is a Limited Liability Company registered in Nigeria. The data controller responsible for your personal data is Bakandamiya Global Concept Ltd with whom you contract as a user (“Bakandamiya”, “we”, “us” and/or “our”).\n\n<b>NO PERSONAL INFORMATION COLLECTED</b>\nWe are happy to let every user of Bakandamiya BMI know that no personal information is collected while using the app!
+</string>
+
+
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
 </resources>

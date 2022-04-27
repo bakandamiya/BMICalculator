@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="HardcodedText">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/idAboutus"
+            android:title="About Us"
+            android:icon="@drawable/about_us"/>
+
+        <item
+            android:id="@+id/idPrivacy"
+            android:title="Privacy"
+            android:icon="@drawable/privacy"/>
+
+        <item
+            android:id="@+id/idContactus"
+            android:title="Contact Us"
+            android:icon="@drawable/contact_us"/>
+
+    </group>
+
+</menu>
